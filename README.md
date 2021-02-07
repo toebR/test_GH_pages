@@ -1,2 +1,2 @@
 # test_gh_pages
-test fpor gh pages
+https://toebr.github.io/test_gh_pages/
